@@ -15,7 +15,6 @@ The project will include features such as task creation, deletion, and modificat
 ### Backend
 
 - **Node.JS**: The chosen platform/environment for backend development.
-- **MongoDB**: Employed for data storage.
 
 ## Project Structure
 
@@ -31,7 +30,7 @@ The project will include features such as task creation, deletion, and modificat
 
 ### 3. Backend Development
 
-- Set up the backend technology to handle data storage and retrieval.
+- Set up the backend technology to handle data storage and retrieval if necessary.
 
 ### 4. Integration
 
