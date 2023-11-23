@@ -1,4 +1,3 @@
-// App.js File
 import React, { Component } from "react";
 import "bootstrap/dist/css/bootstrap.css";
 import Container from "react-bootstrap/Container";
@@ -13,7 +12,6 @@ class App extends Component {
     constructor(props) {
         super(props);
   
-        // Setting up state
         this.state = {
             userInput: "",
             list: [],
@@ -32,7 +30,6 @@ class App extends Component {
           
                 id: Math.random(),
   
-                // Add a user value to list
                 value: this.state.userInput,
             };
   
