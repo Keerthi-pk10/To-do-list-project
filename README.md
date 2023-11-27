@@ -8,7 +8,7 @@ The project will include features such as task creation, deletion, and modificat
 
 - **React.JS**: Used for building the user interface.
 - **HTML**: Used to structure web page
-- **CSS**: Used to style and layout web pages.
+- **CSS**: Used to style and layout web pages
 
 ## Project Structure
 
