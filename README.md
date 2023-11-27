@@ -28,25 +28,16 @@ The project will include features such as task creation, deletion, and modificat
 - Design a web page using HTML, CSS, and Bootstrap to establish the To-Do List's interface.
 - Implement core features of the To-Do List, including task cards, columns, and drag-and-drop functionality.
 
-### 3. Backend Development
-
-- Set up the backend technology to handle data storage and retrieval if necessary.
-
-### 4. Integration
-
-- Connect the frontend and backend to allow seamless data interaction.
-- Implement authentication and authorization for users if necessary.
-
-### 5. Data Management
+### 3.Responsive Frontend
 
 - Develop logic for creating, updating, and deleting tasks.
-- Ensure data persistence and synchronization between the frontend and backend.
+- Ensure data persistence and synchronization between the action and output.
 
-### 6. Cloud Hosting
+### 4. Cloud Hosting
 
 - Deploy both the frontend and backend components to a cloud platform.
 
-### 7. Testing and Debugging
+### 5. Testing and Debugging
 
 - Perform extensive testing to identify and resolve any issues.
 - Ensure cross-browser and cross-device compatibility.
